@@ -1,30 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Unity Project\\Unity Git\\Ship\\",
+  "WorkspaceRootPath": "C:\\Unity Project\\Unity Git\\ShipGameYandex\\Ship\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|C:\\Unity Project\\Unity Git\\Ship\\assets\\scripts\\playership\\drawwhithmouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playership\\drawwhithmouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|c:\\unity project\\unity git\\shipgameyandex\\ship\\assets\\mvc\\view\\mainmenu\\score\\viewerresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|solutionrelative:assets\\mvc\\view\\mainmenu\\score\\viewerresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|c:\\unity project\\unity git\\ship\\assets\\scripts\\enemyship\\enemymover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyship\\enemymover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|C:\\Unity Project\\Unity Git\\ShipGameYandex\\Ship\\assets\\mvc\\model\\spawners\\spawerenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|solutionrelative:assets\\mvc\\model\\spawners\\spawerenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|C:\\Unity Project\\Unity Git\\Ship\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|C:\\Unity Project\\Unity Git\\ShipGameYandex\\Ship\\assets\\mvc\\model\\ships\\shipenemy\\enemylogics\\enemymover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|solutionrelative:assets\\mvc\\model\\ships\\shipenemy\\enemylogics\\enemymover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|C:\\Unity Project\\Unity Git\\Ship\\assets\\scripts\\playership\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playership\\mover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|C:\\Unity Project\\Unity Git\\ShipGameYandex\\Ship\\assets\\mvc\\model\\staticclass\\bankresources\\localbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|solutionrelative:assets\\mvc\\model\\staticclass\\bankresources\\localbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|C:\\Unity Project\\Unity Git\\Ship\\assets\\scripts\\enemyship\\shootenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyship\\shootenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|C:\\Unity Project\\Unity Git\\ShipGameYandex\\Ship\\assets\\mvc\\view\\ui\\score\\scoretable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|solutionrelative:assets\\mvc\\view\\ui\\score\\scoretable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|C:\\Unity Project\\Unity Git\\Ship\\assets\\scripts\\enemyship\\searchplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyship\\searchplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|C:\\Unity Project\\Unity Git\\ShipGameYandex\\Ship\\assets\\mvc\\model\\ships\\shipenemy\\enemylogics\\reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|solutionrelative:assets\\mvc\\model\\ships\\shipenemy\\enemylogics\\reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|C:\\Unity Project\\Unity Git\\ShipGameYandex\\Ship\\assets\\mvc\\view\\ui\\score\\cointable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|solutionrelative:assets\\mvc\\view\\ui\\score\\cointable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|C:\\Unity Project\\Unity Git\\ShipGameYandex\\Ship\\assets\\mvc\\model\\ships\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|solutionrelative:assets\\mvc\\model\\ships\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|C:\\Unity Project\\Unity Git\\ShipGameYandex\\Ship\\assets\\mvc\\model\\item\\firstkit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416D4536-1867-2F87-251C-62B685C2374A}|Assembly-CSharp.csproj|solutionrelative:assets\\mvc\\model\\item\\firstkit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,85 +46,124 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EnemyMover.cs",
-              "DocumentMoniker": "C:\\Unity Project\\Unity Git\\Ship\\Assets\\Scripts\\EnemyShip\\EnemyMover.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyShip\\EnemyMover.cs",
-              "ToolTip": "C:\\Unity Project\\Unity Git\\Ship\\Assets\\Scripts\\EnemyShip\\EnemyMover.cs",
-              "RelativeToolTip": "Assets\\Scripts\\EnemyShip\\EnemyMover.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBwAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T16:24:42.656Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Bullet.cs",
-              "DocumentMoniker": "C:\\Unity Project\\Unity Git\\Ship\\Assets\\Scripts\\Bullet.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
-              "ToolTip": "C:\\Unity Project\\Unity Git\\Ship\\Assets\\Scripts\\Bullet.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Title": "EnemyMover.cs",
+              "DocumentMoniker": "C:\\Unity Project\\Unity Git\\ShipGameYandex\\Ship\\Assets\\MVC\\Model\\Ships\\ShipEnemy\\EnemyLogics\\EnemyMover.cs",
+              "RelativeDocumentMoniker": "Assets\\MVC\\Model\\Ships\\ShipEnemy\\EnemyLogics\\EnemyMover.cs",
+              "ToolTip": "C:\\Unity Project\\Unity Git\\ShipGameYandex\\Ship\\Assets\\MVC\\Model\\Ships\\ShipEnemy\\EnemyLogics\\EnemyMover.cs",
+              "RelativeToolTip": "Assets\\MVC\\Model\\Ships\\ShipEnemy\\EnemyLogics\\EnemyMover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAACEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T15:50:55.277Z"
+              "WhenOpened": "2024-11-28T17:35:12.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DrawWhithMouse.cs",
-              "DocumentMoniker": "C:\\Unity Project\\Unity Git\\Ship\\Assets\\Scripts\\PlayerShip\\DrawWhithMouse.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerShip\\DrawWhithMouse.cs",
-              "ToolTip": "C:\\Unity Project\\Unity Git\\Ship\\Assets\\Scripts\\PlayerShip\\DrawWhithMouse.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerShip\\DrawWhithMouse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "SpawerEnemy.cs",
+              "DocumentMoniker": "C:\\Unity Project\\Unity Git\\ShipGameYandex\\Ship\\Assets\\MVC\\Model\\Spawners\\SpawerEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\MVC\\Model\\Spawners\\SpawerEnemy.cs",
+              "ToolTip": "C:\\Unity Project\\Unity Git\\ShipGameYandex\\Ship\\Assets\\MVC\\Model\\Spawners\\SpawerEnemy.cs",
+              "RelativeToolTip": "Assets\\MVC\\Model\\Spawners\\SpawerEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T15:41:35.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T17:27:10.119Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "SearchPlayer.cs",
-              "DocumentMoniker": "C:\\Unity Project\\Unity Git\\Ship\\Assets\\Scripts\\EnemyShip\\SearchPlayer.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyShip\\SearchPlayer.cs",
-              "ToolTip": "C:\\Unity Project\\Unity Git\\Ship\\Assets\\Scripts\\EnemyShip\\SearchPlayer.cs",
-              "RelativeToolTip": "Assets\\Scripts\\EnemyShip\\SearchPlayer.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAACEAAAAfAAAAAAAAAA==",
+              "Title": "Reward.cs",
+              "DocumentMoniker": "C:\\Unity Project\\Unity Git\\ShipGameYandex\\Ship\\Assets\\MVC\\Model\\Ships\\ShipEnemy\\EnemyLogics\\Reward.cs",
+              "RelativeDocumentMoniker": "Assets\\MVC\\Model\\Ships\\ShipEnemy\\EnemyLogics\\Reward.cs",
+              "ToolTip": "C:\\Unity Project\\Unity Git\\ShipGameYandex\\Ship\\Assets\\MVC\\Model\\Ships\\ShipEnemy\\EnemyLogics\\Reward.cs",
+              "RelativeToolTip": "Assets\\MVC\\Model\\Ships\\ShipEnemy\\EnemyLogics\\Reward.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwCMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T15:17:34.73Z"
+              "WhenOpened": "2024-11-28T17:23:42.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ShootEnemy.cs",
-              "DocumentMoniker": "C:\\Unity Project\\Unity Git\\Ship\\Assets\\Scripts\\EnemyShip\\ShootEnemy.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyShip\\ShootEnemy.cs",
-              "ToolTip": "C:\\Unity Project\\Unity Git\\Ship\\Assets\\Scripts\\EnemyShip\\ShootEnemy.cs",
-              "RelativeToolTip": "Assets\\Scripts\\EnemyShip\\ShootEnemy.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCgAAABTAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ViewerResource.cs",
+              "DocumentMoniker": "C:\\Unity Project\\Unity Git\\ShipGameYandex\\Ship\\Assets\\MVC\\View\\MainMenu\\Score\\ViewerResource.cs",
+              "RelativeDocumentMoniker": "Assets\\MVC\\View\\MainMenu\\Score\\ViewerResource.cs",
+              "ToolTip": "C:\\Unity Project\\Unity Git\\ShipGameYandex\\Ship\\Assets\\MVC\\View\\MainMenu\\Score\\ViewerResource.cs",
+              "RelativeToolTip": "Assets\\MVC\\View\\MainMenu\\Score\\ViewerResource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T14:42:43.788Z"
+              "WhenOpened": "2024-11-28T17:21:46.575Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Mover.cs",
-              "DocumentMoniker": "C:\\Unity Project\\Unity Git\\Ship\\Assets\\Scripts\\PlayerShip\\Mover.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerShip\\Mover.cs",
-              "ToolTip": "C:\\Unity Project\\Unity Git\\Ship\\Assets\\Scripts\\PlayerShip\\Mover.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerShip\\Mover.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCUAAAAeAAAAAAAAAA==",
+              "Title": "LocalBank.cs",
+              "DocumentMoniker": "C:\\Unity Project\\Unity Git\\ShipGameYandex\\Ship\\Assets\\MVC\\Model\\StaticClass\\BankResources\\LocalBank.cs",
+              "RelativeDocumentMoniker": "Assets\\MVC\\Model\\StaticClass\\BankResources\\LocalBank.cs",
+              "ToolTip": "C:\\Unity Project\\Unity Git\\ShipGameYandex\\Ship\\Assets\\MVC\\Model\\StaticClass\\BankResources\\LocalBank.cs",
+              "RelativeToolTip": "Assets\\MVC\\Model\\StaticClass\\BankResources\\LocalBank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wB8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T14:02:30.066Z"
+              "WhenOpened": "2024-11-28T17:21:35.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoreTable.cs",
+              "DocumentMoniker": "C:\\Unity Project\\Unity Git\\ShipGameYandex\\Ship\\Assets\\MVC\\View\\UI\\Score\\ScoreTable.cs",
+              "RelativeDocumentMoniker": "Assets\\MVC\\View\\UI\\Score\\ScoreTable.cs",
+              "ToolTip": "C:\\Unity Project\\Unity Git\\ShipGameYandex\\Ship\\Assets\\MVC\\View\\UI\\Score\\ScoreTable.cs",
+              "RelativeToolTip": "Assets\\MVC\\View\\UI\\Score\\ScoreTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:20:07.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CoinTable.cs",
+              "DocumentMoniker": "C:\\Unity Project\\Unity Git\\ShipGameYandex\\Ship\\Assets\\MVC\\View\\UI\\Score\\CoinTable.cs",
+              "RelativeDocumentMoniker": "Assets\\MVC\\View\\UI\\Score\\CoinTable.cs",
+              "ToolTip": "C:\\Unity Project\\Unity Git\\ShipGameYandex\\Ship\\Assets\\MVC\\View\\UI\\Score\\CoinTable.cs",
+              "RelativeToolTip": "Assets\\MVC\\View\\UI\\Score\\CoinTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:19:30.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Unity Project\\Unity Git\\ShipGameYandex\\Ship\\Assets\\MVC\\Model\\Ships\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\MVC\\Model\\Ships\\Health.cs",
+              "ToolTip": "C:\\Unity Project\\Unity Git\\ShipGameYandex\\Ship\\Assets\\MVC\\Model\\Ships\\Health.cs",
+              "RelativeToolTip": "Assets\\MVC\\Model\\Ships\\Health.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:05:00.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FirstKit.cs",
+              "DocumentMoniker": "C:\\Unity Project\\Unity Git\\ShipGameYandex\\Ship\\Assets\\MVC\\Model\\Item\\FirstKit.cs",
+              "RelativeDocumentMoniker": "Assets\\MVC\\Model\\Item\\FirstKit.cs",
+              "ToolTip": "C:\\Unity Project\\Unity Git\\ShipGameYandex\\Ship\\Assets\\MVC\\Model\\Item\\FirstKit.cs",
+              "RelativeToolTip": "Assets\\MVC\\Model\\Item\\FirstKit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:59:24.351Z"
             }
           ]
         }

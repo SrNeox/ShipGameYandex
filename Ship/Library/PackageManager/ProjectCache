@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638617471864259516
-    m_Hash: 2330150165
+      ticks: 638648368959037714
+    m_Hash: 672759280
   m_LockFileStatus:
     m_FilePath: C:/Unity Project/Unity Git/ShipGameYandex/Ship/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638617471864368925
-    m_Hash: 2643661519
+      ticks: 638648368959101881
+    m_Hash: 2410088756
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,6 +22,62 @@ m_LocalPackages:
 m_ProjectPath: C:/Unity Project/Unity Git/ShipGameYandex/Ship/Packages
 m_EditorVersion: 2022.3.7f1 (b16b3b16c7a0)
 m_ResolvedPackages:
+- packageId: com.gustavopsantos.reflex@https://github.com/gustavopsantos/reflex.git?path=/Assets/Reflex/#9.0.1
+  testable: 0
+  isDirectDependency: 1
+  version: 9.0.1
+  source: 5
+  resolvedPath: C:\Unity Project\Unity Git\ShipGameYandex\Ship\Library\PackageCache\com.gustavopsantos.reflex@f3618e0697
+  assetPath: Packages/com.gustavopsantos.reflex
+  name: com.gustavopsantos.reflex
+  displayName: Reflex
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: Minimal dependency injection framework for Unity
+  status: 0
+  errors: []
+  versions:
+    all: []
+    compatible: []
+    recommended: 
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - Dependency Injection
+  - IoC
+  - DI
+  - DI Container
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: https://github.com/gustavopsantos/reflex
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
 - packageId: com.unity.collab-proxy@2.5.1
   testable: 0
   isDirectDependency: 1
@@ -118,6 +174,7 @@ m_ResolvedPackages:
     - 2.4.3
     - 2.4.4
     - 2.5.1
+    - 2.5.2
     compatible:
     - 2.0.5
     - 2.0.7
@@ -130,6 +187,7 @@ m_ResolvedPackages:
     - 2.4.3
     - 2.4.4
     - 2.5.1
+    - 2.5.2
     recommended: 2.0.7
     deprecated: []
   dependencies: []
@@ -338,6 +396,8 @@ m_ResolvedPackages:
     - 1.9.0
     - 1.10.0
     - 1.11.0
+    - 1.11.1
+    - 1.11.2
     compatible:
     - 1.6.3
     - 1.7.0
@@ -349,6 +409,8 @@ m_ResolvedPackages:
     - 1.9.0
     - 1.10.0
     - 1.11.0
+    - 1.11.1
+    - 1.11.2
     recommended: 1.6.3
     deprecated: []
   dependencies:
@@ -2995,6 +3057,7 @@ m_ResolvedPackages:
     - 3.0.27
     - 3.0.28
     - 3.0.31
+    - 3.0.34
     compatible:
     - 3.0.24
     - 3.0.25
@@ -3002,7 +3065,8 @@ m_ResolvedPackages:
     - 3.0.27
     - 3.0.28
     - 3.0.31
-    recommended: 3.0.31
+    - 3.0.34
+    recommended: 3.0.34
     deprecated: []
   dependencies:
   - name: com.unity.ext.nunit
