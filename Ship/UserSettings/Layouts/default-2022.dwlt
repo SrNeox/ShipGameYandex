@@ -121,7 +121,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 80
+  controlID: 60
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -146,7 +146,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 26
+  controlID: 18
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -708,9 +708,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -4.687564, y: 1.5314202, z: -6.653677}
+    m_Target: {x: -4.9324512, y: 6.718516, z: -1.6379458}
     speed: 2
-    m_Value: {x: -4.687564, y: 1.5314202, z: -6.653677}
+    m_Value: {x: -4.9324512, y: 6.718516, z: -1.6379458}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -743,7 +743,7 @@ MonoBehaviour:
         m_Value: 1
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
-      m_Size: {x: 0.00000011920929, y: 0.00000011920929}
+      m_Size: {x: 1, y: 1}
     zGrid:
       m_Fade:
         m_Target: 0
@@ -756,13 +756,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.27725214, y: 0.44336152, z: -0.14640102, w: 0.8397609}
+    m_Target: {x: -0.006601785, y: -0.006227566, z: -0.00005653163, w: 0.9999956}
     speed: 2
-    m_Value: {x: 0.27724245, y: 0.44334602, z: -0.1463959, w: 0.8397316}
+    m_Value: {x: 0.006601785, y: 0.006227566, z: 0.00005653163, w: -0.9999955}
   m_Size:
-    m_Target: 5.4190183
+    m_Target: 22.084785
     speed: 2
-    m_Value: 5.4190183
+    m_Value: 22.084785
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -843,7 +843,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 73
-    width: 818
+    width: 785
     height: 461
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -929,9 +929,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: ece5feff08e6feff68e6feff8ae8feff0e28fffff26bffff668bffffd693ffff4aa2ffff40a5ffffdaaaffff9ab1ffffe6b8ffff64c0ffff3cc7ffff34cfffff80d6ffff68ddffffd2dfffff96e2fffff2ecffff1afbffff985f0000a8730000e6b2000008b300001cb40000beb40000bab500002ee50000dce6000028e70000
+      m_SelectedIDs: 20700000
+      m_LastClickedID: 28704
+      m_ExpandedIDs: 12f2ffff2cfbffff047000004a7000002e710000ae710000ec71000012720000307200003e7200007a7200008a7200000073000008730000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1010,14 +1010,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes
   m_LastFoldersGridSize: 96
-  m_LastProjectPath: C:\Unity Project\Unity Git\ShipGameYandex\Ship
+  m_LastProjectPath: "C:\\Users\\gsabi\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\ShipGameYandex\\Ship"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d8680000
-    m_LastClickedID: 26840
-    m_ExpandedIDs: 000000006468000066680000686800006a6800006c6800006e68000070680000726800007468000076680000786800007a6800007c6800007e68000080680000826800008468000086680000886800008a6800008c6800008e68000090680000926800009468000096680000986800009a6800009c6800009e680000b4680000be680000c46800000418010000ca9a3b
+    m_SelectedIDs: 886f0000
+    m_LastClickedID: 28552
+    m_ExpandedIDs: 00000000f46e0000f86e0000fa6e0000fc6e0000fe6e0000006f0000026f0000046f0000066f0000086f00000a6f00000c6f00000e6f0000106f0000126f0000146f0000166f0000186f00001a6f00001c6f00001e6f0000206f0000226f0000246f0000266f0000286f00002a6f00002c6f00002e6f0000306f0000326f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1045,7 +1045,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000006468000066680000686800006a6800006c6800006e68000070680000726800007468000076680000786800007a6800007c6800007e68000080680000826800008468000086680000886800008a6800008c6800008e68000090680000926800009468000096680000986800009a6800009c6800009e680000a0680000
+    m_ExpandedIDs: 00000000f46e0000f66e0000f86e0000fa6e0000fc6e0000fe6e0000006f0000026f0000046f0000066f0000086f00000a6f00000c6f00000e6f0000106f0000126f0000146f0000166f0000186f00001a6f00001c6f00001e6f0000206f0000226f0000246f0000266f0000286f00002a6f00002c6f00002e6f0000306f0000326f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
